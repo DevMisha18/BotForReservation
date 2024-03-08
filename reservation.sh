@@ -5,6 +5,9 @@
 echo "Installing Selenium(module for python automatization"
 pip install selenium
 
+# Instaling webdriver_manager
+pip install webdriver_manager
+
 # Warnings 
 sleep 2.5
 printf "\n\n\nAll the data should be related to DSNET:panel!\n"
